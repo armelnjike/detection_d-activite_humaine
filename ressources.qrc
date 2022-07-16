@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="user1.png">user.png</file>
+<file alias="user2.png">user-icon.png</file>
+<file alias="password.ico">password-icon.ico</file>
+<file alias="logo.png">logo1.png</file>
+</qresource>
+</RCC>
